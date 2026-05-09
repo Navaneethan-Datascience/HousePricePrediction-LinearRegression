@@ -4,14 +4,16 @@ A beginner-friendly Machine Learning project to predict house prices based on ar
 
 ---
 
-## 📁 Project Structure
+## Project Structure
+
+'''
 LinearRegression/
 ├── dataset/
 │   └── house_price_dataset.csv
 ├── model/
 │   └── LinearRegression_house_price_prediction.ipynb
 ├── README.md
-
+'''
 
 ---
 
@@ -109,4 +111,5 @@ RMSE              : $120.89
 
 ## Author
 Navaneethan K
+
 navaneethan1810@gmail.com
