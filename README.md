@@ -7,7 +7,7 @@ A beginner-friendly Machine Learning project to predict house prices based on ar
 ## Project Structure
 
 ```bash
-LinearRegression/
+SimpleLinearRegression/
 ├── dataset/
 │   └── house_price_dataset.csv
 ├── model/
