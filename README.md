@@ -6,14 +6,14 @@ A beginner-friendly Machine Learning project to predict house prices based on ar
 
 ## Project Structure
 
-'''
+``` bash
 LinearRegression/
 ├── dataset/
 │   └── house_price_dataset.csv
 ├── model/
 │   └── LinearRegression_house_price_prediction.ipynb
 ├── README.md
-'''
+
 
 ---
 
