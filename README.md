@@ -96,12 +96,6 @@ RMSE              : $120.89
 
 ---
 
-## How to Use
-
-1. Open the notebook:
-   ```bash
-   SimpleLinearRegression/model/LinearRegression_house_price_prediction.ipynb
-
 ## Key Learnings
 
 - Mathematics behind Linear Regression
